@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="UserControlComponent\InsertMemberPopup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlComponent\InsertOrderPopup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlComponent\InsertProductPopup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlComponent\UpdateMemberPopup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlComponent\UpdateOrderPopup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControlComponent\UpdateProductPopup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowHomepage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowLogin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowMember.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlComponent\InsertMemberPopup.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlComponent\InsertOrderPopup.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlComponent\InsertProductPopup.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlComponent\UpdateMemberPopup.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlComponent\UpdateOrderPopup.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControlComponent\UpdateProductPopup.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowHomepage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowLogin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowMember.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

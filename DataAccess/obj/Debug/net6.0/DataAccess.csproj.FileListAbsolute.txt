@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\ASUS\Desktop\PRN211\Assignment\FStore\DataAccess\bin\Debug\net6.0\appsettings.json
